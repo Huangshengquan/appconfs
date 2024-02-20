@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'appconfs_Example' do
+  pod 'appconfs', :path => '../'
+
+  target 'appconfs_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

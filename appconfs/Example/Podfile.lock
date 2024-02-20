@@ -1,0 +1,16 @@
+PODS:
+  - appconfs (0.1.0)
+
+DEPENDENCIES:
+  - appconfs (from `../`)
+
+EXTERNAL SOURCES:
+  appconfs:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  appconfs: b8bfabd306ac112d13ed2eb48e1b78fc9ecc9184
+
+PODFILE CHECKSUM: 5e0a417e9a6443d851a170768c8d947eda67271d
+
+COCOAPODS: 1.12.1

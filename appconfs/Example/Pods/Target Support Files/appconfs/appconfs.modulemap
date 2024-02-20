@@ -1,0 +1,6 @@
+framework module appconfs {
+  umbrella header "appconfs-umbrella.h"
+
+  export *
+  module * { export * }
+}
